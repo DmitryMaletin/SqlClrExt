@@ -1,6 +1,6 @@
 Simple CLR function to overcome lack of regular expression in SQL SERVER. 
 
-![learn-regex](https://github.com/DmitryMaletin/learn-regex)
+[learn-regex](https://github.com/DmitryMaletin/learn-regex)
 
 Examples: 
 ```
